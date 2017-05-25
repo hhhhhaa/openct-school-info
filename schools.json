@@ -1037,6 +1037,11 @@
     "cmsSys": "zfsoft"
   },
   {
+    "name": "广州大学",
+    "cmsURL": "http://my.gzhu.edu.cn/",
+    "cmsSys": "zfsoft"
+  },
+  {
     "name": "闽江学院",
     "cmsURL": "http://211.80.208.93/",
     "cmsSys": "zfsoft"
